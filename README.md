@@ -1,2 +1,2 @@
 # Formula-1-championship
-Formula 1 racing car championship.
+Java program which simulates the manipulation of a Formula 1 racing car championship
